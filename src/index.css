@@ -69,11 +69,9 @@ body {
 
 .header .Hotel_name {
   padding-top: 10px;
-
   color: rgb(0, 0, 0);
   margin-right: 50px;
   margin-left: 50px;
-
   justify-content: center;
   text-align: center;
 }
@@ -94,8 +92,29 @@ body {
   background-color: rgba(0, 0, 255, 0.948);
   color: #ffffff;
   border-radius: 5px;
-
   width: 100px;
   padding: 1px;
   margin: 5px;
+}
+
+.Order_button {
+  background-color: #6ec1e4;
+  color: #ffffff;
+
+  border-radius: 5px;
+  width: 100px;
+  padding: 1px;
+  margin: 5px;
+  box-shadow: 0px 3px 22px -7px rgba(0, 0, 0, 0.5);
+}
+
+ {
+  padding: 8px 15px 8px 15px;
+  font-family: "Roboto", Sans-serif;
+  font-size: 14px;
+
+  border-radius: 3px 3px 3px 3px;
+  box-shadow: 0px 3px 22px -7px rgba(0, 0, 0, 0.5);
+  color: #ffffff;
+  background-color: #6ec1e4;
 }
