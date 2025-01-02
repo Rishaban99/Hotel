@@ -7,7 +7,7 @@ function Header() {
         <img className="Hotel_logo" src={logo}></img>
         <p className="Hotel_name">
           <h1> SREE RISEEY VILLAS</h1>
-          <h5>No,20 side street Hatton </h5>
+          <h5>No. 20 side street - Hatton </h5>
           <h5>0729066870 </h5>
         </p>
       </div>
