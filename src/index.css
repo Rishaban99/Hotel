@@ -29,8 +29,12 @@ body {
 .card .card_profile {
   max-width: 60%;
   height: 1auto;
-  border: 3px solid rgb(58, 79, 70);
+  border: 1px solid rgba(32, 34, 34, 0.314);
   border-radius: 10%;
+}
+
+.card .card_profile:hover {
+  box-shadow: 5px 5px rgba(0, 0, 0, 0.1);
 }
 
 .card .card_tittle {
@@ -95,13 +99,15 @@ body {
   width: 100px;
   padding: 1px;
   margin: 5px;
+  border-color: rgba(21, 21, 22, 0.6);
 }
 
 .Order_button {
-  background-color: #6ec1e4;
+  background-color: #6ec1e4f9;
   color: #ffffff;
   border-radius: 5px;
   width: 100px;
   padding: 1px;
   margin: 5px;
+  border-color: rgba(26, 25, 27, 0.3);
 }
